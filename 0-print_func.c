@@ -4,7 +4,6 @@
 /**
  * _printf - function to ouput characters according to format
  * @format: character string composed of zero or more directives
- * ...: printf declaration to accept a large number of arguments
  * Return: number of characters printed
  */
 int _printf(const char *format, ...)
